@@ -1,0 +1,28 @@
+{
+    "employees" : [
+    {
+        "id" :"100",
+        "name" :"PASHA",
+        "salary":"9999.99"
+    },
+    {
+        "id" :"200",
+        "name" :"HARSHA",
+        "salary":"8888.88"
+    },{
+        "id" :"300",
+        "name" :"VENKAT",
+        "salary":"7777.77"
+    },
+    ,{
+        "id" :"400",
+        "name" :"INDIRA",
+        "salary":"7777.77"
+    },
+    ,{
+        "id" :"500",
+        "name" :"RAHUL",
+        "salary":"7777.77"
+    }
+]
+}
